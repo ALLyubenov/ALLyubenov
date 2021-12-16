@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ALLyubenov
 - 👀 I’m interested in Embedded systems & Robotics
 - 🌱 I’m currently learning at TU Gabrovo
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaboration 
 - 📫 How to reach me alyubenov10@gmail.com
 
 <!---
